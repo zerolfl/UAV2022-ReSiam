@@ -1,0 +1,10 @@
+*.idea
+*~
+*__pycache__*
+*.pyc
+*.pytest_cache
+*.ipynb_checkpoints/
+tracking_results*/
+result_plots/
+features/fhog/build
+features/fhog/*.pyd
